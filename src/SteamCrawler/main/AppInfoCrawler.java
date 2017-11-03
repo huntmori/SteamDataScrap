@@ -34,6 +34,7 @@ public class AppInfoCrawler
 	}
 	public ArrayList<String>	AppTagProcess()
 	{
+		System.out.println();
 		return null;
 	}
 	public void ProccessCrawl()
